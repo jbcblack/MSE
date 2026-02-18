@@ -2989,6 +2989,7 @@
 		30 CA04 — Equipment
 		30 CA05 — Land fetching/color fixing
 		30 CL01 — path of ancestry
+		30 Wastes
 		30 Chaotic Aether
 		30 Reality Shaping
 		30 Event Horizon
@@ -3251,6 +3252,7 @@
 	10 MX03 — Byode, Inverse Sun
 	10 MX04 — The Ur-Spider
 	10 MX05 — The Ur-Dragon
+	10 Wastes
 	10 Chaotic Aether
 	10 Reality Shaping
 	10 Event Horizon
