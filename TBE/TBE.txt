@@ -1892,8 +1892,8 @@
 		{
 			"name": "MB01 — U",
 			"rarity": "mythic",
-			"mana_cost": "{2/C}{B}",
-			"type": "Creature — Eldrazi ",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMB01 — U.png"
@@ -1903,7 +1903,7 @@
 			"name": "MB02 — R",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Eldrazi ",
+			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMB02 — R.png"
