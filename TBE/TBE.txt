@@ -6,7 +6,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW01 — one mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW01 — one mana creature.png"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			"type": "Creature — Bird ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW02 — one or two mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW02 — one or two mana creature.png"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW03 — two mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW03 — two mana creature.png"
 			}
 		},
 		{
@@ -36,7 +36,7 @@
 			"type": "Creature — Cat Cleric ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW04 — two mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW04 — two mana creature.png"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW05 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW05 — Two-mana creature.png"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW06 — Two- or three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW06 — Two- or three-mana creature.png"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW07 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW07 — Three-mana creature.png"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 			"type": "Enchantment Creature — Cat Cleric ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW08 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW08 — Three-mana creature.png"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			"type": "Creature — Eldrazi Cat ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW09 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW09 — Four-mana creature.png"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW10 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW10 — Four-mana creature.png"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 			"type": "Enchantment Creature — Eldrazi ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW11 — Five-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW11 — Five-mana creature.png"
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW12 — Five- or six-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW12 — Five- or six-mana creature.png"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW13 — 6–7 Small removal (usually damage to attacker/blocker).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW13 — 6–7 Small removal (usually damage to attacker/blocker).png"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW14 — Can't attack or block Aura (sometimes stops abilities).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW14 — Can't attack or block Aura (sometimes stops abilities).png"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW15 — Destroy large/tapped creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW15 — Destroy large/tapped creature.png"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW16 — Combat trick.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW16 — Combat trick.png"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW17 — Positive Aura/Equipment.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW17 — Positive Aura/Equipment.png"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW18 — Go-wide team-pump effect.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW18 — Go-wide team-pump effect.png"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			"type": "Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECW19 — Destroy artifact/enchantment.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CW19 — Destroy artifact/enchantment.png"
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			"type": "Creature — Illusion ",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU01 — One-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU01 — One-mana creature.png"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU02 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU02 — Two-mana creature.png"
 			}
 		},
 		{
@@ -216,7 +216,7 @@
 			"type": "Creature — Sphinx ",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU03 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU03 — Two-mana creature.png"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU04 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU04 — Three-mana creature.png"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU05 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU05 — Three-mana creature.png"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU06 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU06 — Four-mana creature.png"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 			"type": "Enchantment Creature — Eldrazi Illusion ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU07 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU07 — Four-mana creature.png"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU08 — Five-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU08 — Five-mana creature.png"
 			}
 		},
 		{
@@ -276,7 +276,7 @@
 			"type": "Creature — Eldrazi Reflection ",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU09 — Six-mana creature or higher.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU09 — Six-mana creature or higher.png"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 			"type": "Creature — Eldrazi Shapeshifter ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU10 — 0-power creature, defender, or noncreature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU10 — 0-power creature, defender, or noncreature.png"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU11 — Hard counterspell (counters anything).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU11 — Hard counterspell (counters anything).png"
 			}
 		},
 		{
@@ -306,7 +306,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU12 — Soft counterspell (conditionally counters things or a subset).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU12 — Soft counterspell (conditionally counters things or a subset).png"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU13 — Lockdown Aura.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU13 — Lockdown Aura.png"
 			}
 		},
 		{
@@ -326,7 +326,7 @@
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU14 — Card drawing (no more than three).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU14 — Card drawing (no more than three).png"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 			"type": "instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU15 — Cantrip/card filtering.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU15 — Cantrip/card filtering.png"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU16 — Bounce spell.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU16 — Bounce spell.png"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU17 — Positive Aura or combat trick.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU17 — Positive Aura or combat trick.png"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"type": "Instant",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU18 — Disrupt opposing creatures (freezing, tapping, lowering power, etc.).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU18 — Disrupt opposing creatures (freezing, tapping, lowering power, etc.).png"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECU19 — Anything.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CU19 — Anything.png"
 			}
 		},
 		{
@@ -386,7 +386,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB01 — One-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB01 — One-mana creature.png"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB02 — One- or two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB02 — One- or two-mana creature.png"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 			"type": "Creature — Eldrazi Processor  ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB03 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB03 — Two-mana creature.png"
 			}
 		},
 		{
@@ -416,7 +416,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB04 — Two- or three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB04 — Two- or three-mana creature.png"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB05 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB05 — Three-mana creature.png"
 			}
 		},
 		{
@@ -436,7 +436,7 @@
 			"type": "Enchantment Creature — Spider ",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB06 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB06 — Three-mana creature.png"
 			}
 		},
 		{
@@ -446,7 +446,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB07 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB07 — Four-mana creature.png"
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 			"type": "Enchantment Creature — Spider ",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB08 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB08 — Four-mana creature.png"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 			"type": "Creature — Spider Horror ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB09 — Five-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB09 — Five-mana creature.png"
 			}
 		},
 		{
@@ -476,7 +476,7 @@
 			"type": "Creature — Eldrazi Spider ",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB10 — Six-mana creature or higher.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB10 — Six-mana creature or higher.png"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 			"type": "Instant",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB11 — Removal spell (kill anything).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB11 — Removal spell (kill anything).png"
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"type": "Instant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB12 — Removal spell (kill small things).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB12 — Removal spell (kill small things).png"
 			}
 		},
 		{
@@ -506,7 +506,7 @@
 			"type": "Sorcery",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB13 — Removal spell (forced sacrifice or conditional).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB13 — Removal spell (forced sacrifice or conditional).png"
 			}
 		},
 		{
@@ -516,7 +516,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB14 — Removal spell (conditional, weaker).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB14 — Removal spell (conditional, weaker).png"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB15 — Card draw (added cost).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB15 — Card draw (added cost).png"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB16 — Raise Dead (one or two creatures).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB16 — Raise Dead (one or two creatures).png"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB17 — Discard (one or two cards).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB17 — Discard (one or two cards).png"
 			}
 		},
 		{
@@ -556,7 +556,7 @@
 			"type": "Enchantment",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB18 — Positive Aura or combat trick.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB18 — Positive Aura or combat trick.png"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECB19 — Anything.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CB19 — Anything.png"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			"type": "Creature — Eldrazi Scion ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR01 — One-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR01 — One-mana creature.png"
 			}
 		},
 		{
@@ -586,7 +586,7 @@
 			"type": "Enchantment Creature — Dragon ",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR02 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR02 — Two-mana creature.png"
 			}
 		},
 		{
@@ -596,7 +596,7 @@
 			"type": "Creature — Eldrazi Scion ",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR03 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR03 — Two-mana creature.png"
 			}
 		},
 		{
@@ -606,7 +606,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR04 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR04 — Two-mana creature.png"
 			}
 		},
 		{
@@ -616,7 +616,7 @@
 			"type": "Creature — Dragon Egg ",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR05 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR05 — Three-mana creature.png"
 			}
 		},
 		{
@@ -626,7 +626,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR06 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR06 — Three-mana creature.png"
 			}
 		},
 		{
@@ -636,7 +636,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR07 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR07 — Four-mana creature.png"
 			}
 		},
 		{
@@ -646,7 +646,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR08 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR08 — Four-mana creature.png"
 			}
 		},
 		{
@@ -656,7 +656,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR09 — Five-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR09 — Five-mana creature.png"
 			}
 		},
 		{
@@ -666,7 +666,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR10 — Five-mana creature or higher.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR10 — Five-mana creature or higher.png"
 			}
 		},
 		{
@@ -676,7 +676,7 @@
 			"type": "Instant",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR11 — Direct damage (efficient, usually any target).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR11 — Direct damage (efficient, usually any target).png"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 			"type": "Instant",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR12 — Direct damage (less effective).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR12 — Direct damage (less effective).png"
 			}
 		},
 		{
@@ -696,7 +696,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR13 — Steal/direct damage (ineffective).png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR13 — Steal/direct damage (ineffective).png"
 			}
 		},
 		{
@@ -706,7 +706,7 @@
 			"type": "Sorcery",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR14 — Team pump/land destruction.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR14 — Team pump/land destruction.png"
 			}
 		},
 		{
@@ -716,7 +716,7 @@
 			"type": "Sorcery",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR15 — Cantrip/rummaging.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR15 — Cantrip/rummaging.png"
 			}
 		},
 		{
@@ -726,7 +726,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR16 — Positive Aura/Equipment.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR16 — Positive Aura/Equipment.png"
 			}
 		},
 		{
@@ -736,7 +736,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR17 — Combat trick.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR17 — Combat trick.png"
 			}
 		},
 		{
@@ -746,7 +746,7 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR18 — Can't block/destroy artifact/direct damage to player.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR18 — Can't block/destroy artifact/direct damage to player.png"
 			}
 		},
 		{
@@ -756,7 +756,7 @@
 			"type": "Instant",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECR19 — Anything.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CR19 — Anything.png"
 			}
 		},
 		{
@@ -766,7 +766,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG01 — One-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG01 — One-mana creature.png"
 			}
 		},
 		{
@@ -776,7 +776,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG02 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG02 — Two-mana creature.png"
 			}
 		},
 		{
@@ -786,7 +786,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG03 — Two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG03 — Two-mana creature.png"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG04 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG04 — Three-mana creature.png"
 			}
 		},
 		{
@@ -806,7 +806,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG05 — Three-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG05 — Three-mana creature.png"
 			}
 		},
 		{
@@ -816,7 +816,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG06 — Three- or four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG06 — Three- or four-mana creature.png"
 			}
 		},
 		{
@@ -826,7 +826,7 @@
 			"type": "Enchantment Creature — Spider ",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG07 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG07 — Four-mana creature.png"
 			}
 		},
 		{
@@ -836,7 +836,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG08 — Four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG08 — Four-mana creature.png"
 			}
 		},
 		{
@@ -846,7 +846,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG09 — Five-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG09 — Five-mana creature.png"
 			}
 		},
 		{
@@ -856,7 +856,7 @@
 			"type": "Enchantment Creature — Dragon ",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG10 — Five- or six-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG10 — Five- or six-mana creature.png"
 			}
 		},
 		{
@@ -866,7 +866,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG11 — Six-mana creature or higher.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG11 — Six-mana creature or higher.png"
 			}
 		},
 		{
@@ -876,7 +876,7 @@
 			"type": "Instant",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG12 — Fight or bite spell.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG12 — Fight or bite spell.png"
 			}
 		},
 		{
@@ -886,7 +886,7 @@
 			"type": "Instant",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG13 — Power/toughness pumping.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG13 — Power/toughness pumping.png"
 			}
 		},
 		{
@@ -896,7 +896,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG14 — Another combat trick.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG14 — Another combat trick.png"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG15 — Cantrip/card filtering.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG15 — Cantrip/card filtering.png"
 			}
 		},
 		{
@@ -916,7 +916,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG16 — Positive Aura or Equipment.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG16 — Positive Aura or Equipment.png"
 			}
 		},
 		{
@@ -926,7 +926,7 @@
 			"type": "Sorcery",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG17 — Anti-flying.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG17 — Anti-flying.png"
 			}
 		},
 		{
@@ -936,7 +936,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG18 — Mana acceleration.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG18 — Mana acceleration.png"
 			}
 		},
 		{
@@ -946,7 +946,7 @@
 			"type": "Sorcery",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECG19 — Destroy artifact/enchantment.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CG19 — Destroy artifact/enchantment.png"
 			}
 		},
 		{
@@ -956,7 +956,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW01 — Blue.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW01 — Blue.png"
 			}
 		},
 		{
@@ -966,7 +966,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW02 — Black.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW02 — Black.png"
 			}
 		},
 		{
@@ -976,7 +976,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW03 — Red.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW03 — Red.png"
 			}
 		},
 		{
@@ -986,7 +986,7 @@
 			"type": "Creature — Cat Cleric ",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW04 — Green.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW04 — Green.png"
 			}
 		},
 		{
@@ -996,7 +996,7 @@
 			"type": "Enchantment",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW05 — Blue.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW05 — Blue.png"
 			}
 		},
 		{
@@ -1006,7 +1006,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW06 — Black.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW06 — Black.png"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW07 — Red.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW07 — Red.png"
 			}
 		},
 		{
@@ -1026,7 +1026,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW08 — Green.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW08 — Green.png"
 			}
 		},
 		{
@@ -1036,7 +1036,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW09 — tap.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW09 — tap.png"
 			}
 		},
 		{
@@ -1046,7 +1046,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW10 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW10 — CREATURE.png"
 			}
 		},
 		{
@@ -1056,7 +1056,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUW11 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UW11 — CREATURE.png"
 			}
 		},
 		{
@@ -1066,7 +1066,7 @@
 			"type": "Creature — Illusion ",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU01 — White.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU01 — White.png"
 			}
 		},
 		{
@@ -1076,7 +1076,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU02 — Black.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU02 — Black.png"
 			}
 		},
 		{
@@ -1086,7 +1086,7 @@
 			"type": "Sorcery",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU03 — Red.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU03 — Red.png"
 			}
 		},
 		{
@@ -1096,7 +1096,7 @@
 			"type": "Enchantment",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU04 — Green.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU04 — Green.png"
 			}
 		},
 		{
@@ -1106,7 +1106,7 @@
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU05 — White.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU05 — White.png"
 			}
 		},
 		{
@@ -1116,7 +1116,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU06 — Black.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU06 — Black.png"
 			}
 		},
 		{
@@ -1126,7 +1126,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU07 — Red.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU07 — Red.png"
 			}
 		},
 		{
@@ -1136,7 +1136,7 @@
 			"type": "Instant",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU08 — Green.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU08 — Green.png"
 			}
 		},
 		{
@@ -1146,7 +1146,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU09 — aura swap.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU09 — aura swap.png"
 			}
 		},
 		{
@@ -1156,7 +1156,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU10 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU10 — CREATURE.png"
 			}
 		},
 		{
@@ -1166,7 +1166,7 @@
 			"type": "Creature — illusion ",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUU11 — Narcomoeba.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UU11 — Narcomoeba.png"
 			}
 		},
 		{
@@ -1176,7 +1176,7 @@
 			"type": "Creature — Illusion ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB01 — Necromoeba.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB01 — Necromoeba.png"
 			}
 		},
 		{
@@ -1186,7 +1186,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB02 — Blue.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB02 — Blue.png"
 			}
 		},
 		{
@@ -1196,7 +1196,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB03 — Red.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB03 — Red.png"
 			}
 		},
 		{
@@ -1206,7 +1206,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB04 — Green.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB04 — Green.png"
 			}
 		},
 		{
@@ -1216,7 +1216,7 @@
 			"type": "Sorcery",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB05 — White.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB05 — White.png"
 			}
 		},
 		{
@@ -1226,7 +1226,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB06 — Blue.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB06 — Blue.png"
 			}
 		},
 		{
@@ -1236,7 +1236,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB07 — Red.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB07 — Red.png"
 			}
 		},
 		{
@@ -1246,7 +1246,7 @@
 			"type": "Instant",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB08 — Green.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB08 — Green.png"
 			}
 		},
 		{
@@ -1256,7 +1256,7 @@
 			"type": "Creature — Shapeshifter ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB09 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB09 — CREATURE.png"
 			}
 		},
 		{
@@ -1266,7 +1266,7 @@
 			"type": "Creature — Spider Horror ",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB10 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB10 — CREATURE.png"
 			}
 		},
 		{
@@ -1276,7 +1276,7 @@
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUB11 — NONCREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UB11 — NONCREATURE.png"
 			}
 		},
 		{
@@ -1286,7 +1286,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR01 — W.png"
 			}
 		},
 		{
@@ -1296,7 +1296,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR02 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR02 — U.png"
 			}
 		},
 		{
@@ -1306,7 +1306,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR03 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR03 — B.png"
 			}
 		},
 		{
@@ -1316,7 +1316,7 @@
 			"type": "Enchantment",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR04 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR04 — G.png"
 			}
 		},
 		{
@@ -1326,7 +1326,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR05 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR05 — W.png"
 			}
 		},
 		{
@@ -1336,7 +1336,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR06 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR06 — U.png"
 			}
 		},
 		{
@@ -1346,7 +1346,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR07 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR07 — B.png"
 			}
 		},
 		{
@@ -1356,7 +1356,7 @@
 			"type": "Enchantment",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR08 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR08 — G.png"
 			}
 		},
 		{
@@ -1366,7 +1366,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR09 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR09 — CREATURE.png"
 			}
 		},
 		{
@@ -1376,7 +1376,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR10 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR10 — CREATURE.png"
 			}
 		},
 		{
@@ -1386,7 +1386,7 @@
 			"type": "Enchantment",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUR11 — NONCREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UR11 — NONCREATURE.png"
 			}
 		},
 		{
@@ -1396,7 +1396,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG01 — W.png"
 			}
 		},
 		{
@@ -1406,7 +1406,7 @@
 			"type": "Sorcery",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG02 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG02 — U.png"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG03 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG03 — B.png"
 			}
 		},
 		{
@@ -1426,7 +1426,7 @@
 			"type": "Creature — Dragon Cleric ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG04 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG04 — R.png"
 			}
 		},
 		{
@@ -1436,7 +1436,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG05 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG05 — W.png"
 			}
 		},
 		{
@@ -1446,7 +1446,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG06 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG06 — U.png"
 			}
 		},
 		{
@@ -1456,7 +1456,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG07 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG07 — B.png"
 			}
 		},
 		{
@@ -1466,7 +1466,7 @@
 			"type": "Creature — Dragon Cleric ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG08 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG08 — R.png"
 			}
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"type": "Creature — Cat Shaman ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG09 — CREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG09 — CREATURE.png"
 			}
 		},
 		{
@@ -1486,7 +1486,7 @@
 			"type": "Sorcery",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG10 — NONCREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG10 — NONCREATURE.png"
 			}
 		},
 		{
@@ -1496,7 +1496,7 @@
 			"type": "Enchantment",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUG11 — NONCREATURE.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UG11 — NONCREATURE.png"
 			}
 		},
 		{
@@ -1506,7 +1506,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERW01 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RW01 — U.png"
 			}
 		},
 		{
@@ -1516,7 +1516,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERW02 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RW02 — B.png"
 			}
 		},
 		{
@@ -1526,7 +1526,7 @@
 			"type": "Sorcery",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERW03 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RW03 — R.png"
 			}
 		},
 		{
@@ -1536,7 +1536,7 @@
 			"type": "Creature — Eldrazi Dragon ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERW04 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RW04 — G.png"
 			}
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"type": "Creature — Avatar  ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERW05 — Soul of Eternity.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RW05 — Soul of Eternity.png"
 			}
 		},
 		{
@@ -1556,7 +1556,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERW06 — Eerie Interlude.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RW06 — Eerie Interlude.png"
 			}
 		},
 		{
@@ -1566,7 +1566,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERW07 — fateseal charming prince.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RW07 — fateseal charming prince.png"
 			}
 		},
 		{
@@ -1576,7 +1576,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERU01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RU01 — W.png"
 			}
 		},
 		{
@@ -1586,7 +1586,7 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERU02 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RU02 — B.png"
 			}
 		},
 		{
@@ -1596,7 +1596,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERU03 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RU03 — R.png"
 			}
 		},
 		{
@@ -1606,7 +1606,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERU04 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RU04 — G.png"
 			}
 		},
 		{
@@ -1616,7 +1616,7 @@
 			"type": "Enchantment",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERU05 — Eye of the Storm.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RU05 — Eye of the Storm.png"
 			}
 		},
 		{
@@ -1626,7 +1626,7 @@
 			"type": "Enchantment Creature — Illusion ",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERU06 — Arcane heist.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RU06 — Arcane heist.png"
 			}
 		},
 		{
@@ -1636,7 +1636,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERU07 — Deepfathom Skulker.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RU07 — Deepfathom Skulker.png"
 			}
 		},
 		{
@@ -1646,7 +1646,7 @@
 			"type": "Enchantment",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERB01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RB01 — W.png"
 			}
 		},
 		{
@@ -1656,7 +1656,7 @@
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERB02 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RB02 — U.png"
 			}
 		},
 		{
@@ -1666,7 +1666,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERB03 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RB03 — R.png"
 			}
 		},
 		{
@@ -1676,7 +1676,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERB04 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RB04 — G.png"
 			}
 		},
 		{
@@ -1686,7 +1686,7 @@
 			"type": "Enchantment Creature — Nightmare ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERB05 — fear of ridicule.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RB05 — fear of ridicule.png"
 			}
 		},
 		{
@@ -1696,7 +1696,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERB06 — Sifter of skulls.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RB06 — Sifter of skulls.png"
 			}
 		},
 		{
@@ -1706,7 +1706,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERB07 — Dread Defiler.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RB07 — Dread Defiler.png"
 			}
 		},
 		{
@@ -1716,7 +1716,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERR01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RR01 — W.png"
 			}
 		},
 		{
@@ -1726,7 +1726,7 @@
 			"type": "Instant",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERR02 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RR02 — U.png"
 			}
 		},
 		{
@@ -1736,7 +1736,7 @@
 			"type": "Sorcery",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERR03 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RR03 — B.png"
 			}
 		},
 		{
@@ -1746,7 +1746,7 @@
 			"type": "Enchantment Creature — Dragon Spirit ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERR04 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RR04 — G.png"
 			}
 		},
 		{
@@ -1756,7 +1756,7 @@
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERR05 — Blast from the past.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RR05 — Blast from the past.png"
 			}
 		},
 		{
@@ -1766,7 +1766,7 @@
 			"type": "Enchantment Creature — Illusion ",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERR06 — Mirror-Style Master.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RR06 — Mirror-Style Master.png"
 			}
 		},
 		{
@@ -1776,7 +1776,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERR07 — Eldrazi Obligator.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RR07 — Eldrazi Obligator.png"
 			}
 		},
 		{
@@ -1786,7 +1786,7 @@
 			"type": "Enchantment",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERG01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RG01 — W.png"
 			}
 		},
 		{
@@ -1796,7 +1796,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERG02 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RG02 — U.png"
 			}
 		},
 		{
@@ -1806,7 +1806,7 @@
 			"type": "Sorcery",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERG03 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RG03 — B.png"
 			}
 		},
 		{
@@ -1816,7 +1816,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERG04 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RG04 — R.png"
 			}
 		},
 		{
@@ -1826,7 +1826,7 @@
 			"type": "Instant",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERG05 — Natural Affinity.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RG05 — Natural Affinity.png"
 			}
 		},
 		{
@@ -1836,7 +1836,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERG06 — Propagator Drone.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RG06 — Propagator Drone.png"
 			}
 		},
 		{
@@ -1846,7 +1846,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERG07 — Vile Redeemer.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RG07 — Vile Redeemer.png"
 			}
 		},
 		{
@@ -1856,7 +1856,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMW01 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MW01 — U.png"
 			}
 		},
 		{
@@ -1866,7 +1866,7 @@
 			"type": "Enchantment",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMW02 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MW02 — G.png"
 			}
 		},
 		{
@@ -1876,7 +1876,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMU01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MU01 — W.png"
 			}
 		},
 		{
@@ -1886,7 +1886,7 @@
 			"type": "Enchantment Creature — Illusion Reflection ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMU02 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MU02 — B.png"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMB01 — U.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MB01 — U.png"
 			}
 		},
 		{
@@ -1906,7 +1906,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMB02 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MB02 — R.png"
 			}
 		},
 		{
@@ -1916,7 +1916,7 @@
 			"type": "Instant",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMR01 — B.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MR01 — B.png"
 			}
 		},
 		{
@@ -1926,7 +1926,7 @@
 			"type": "Creature — Dragon Shaman ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMR02 — G.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MR02 — G.png"
 			}
 		},
 		{
@@ -1936,7 +1936,7 @@
 			"type": "Creature — Eldrazi Dragon ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMG01 — W.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MG01 — W.png"
 			}
 		},
 		{
@@ -1946,7 +1946,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMG02 — R.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MG02 — R.png"
 			}
 		},
 		{
@@ -1956,7 +1956,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Flicker.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Flicker.png"
 			}
 		},
 		{
@@ -1966,7 +1966,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Ingest.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Ingest.png"
 			}
 		},
 		{
@@ -1976,7 +1976,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Not played from hand.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Not played from hand.png"
 			}
 		},
 		{
@@ -1986,7 +1986,7 @@
 			"type": "Creature — Eldrazi Dragon ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Dragons.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Dragons.png"
 			}
 		},
 		{
@@ -1996,7 +1996,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Cats.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Cats.png"
 			}
 		},
 		{
@@ -2006,7 +2006,7 @@
 			"type": "Creature — Eldrazi  Processor ",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Exile.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Exile.png"
 			}
 		},
 		{
@@ -2016,7 +2016,7 @@
 			"type": "Creature — Reflection ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — copy/splice.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — copy/splice.png"
 			}
 		},
 		{
@@ -2026,7 +2026,7 @@
 			"type": "Enchantment Creature — Spider ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Spiders.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Spiders.png"
 			}
 		},
 		{
@@ -2036,7 +2036,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — modified.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — modified.png"
 			}
 		},
 		{
@@ -2046,7 +2046,7 @@
 			"type": "Instant",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUM01 — Planar Genesis.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UM01 — Planar Genesis.png"
 			}
 		},
 		{
@@ -2056,7 +2056,7 @@
 			"type": "Creature — Cat Illusion ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — Flicker.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — Flicker.png"
 			}
 		},
 		{
@@ -2066,7 +2066,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — Ingest.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — Ingest.png"
 			}
 		},
 		{
@@ -2076,7 +2076,7 @@
 			"type": "Enchantment",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — Not played from hand.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — Not played from hand.png"
 			}
 		},
 		{
@@ -2086,7 +2086,7 @@
 			"type": "Instant",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — Dragons.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — Dragons.png"
 			}
 		},
 		{
@@ -2096,7 +2096,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — cat enchantments.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — cat enchantments.png"
 			}
 		},
 		{
@@ -2106,7 +2106,7 @@
 			"type": "Instant",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — Exile.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — Exile.png"
 			}
 		},
 		{
@@ -2116,7 +2116,7 @@
 			"type": "Instant",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — copy/splice.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — copy/splice.png"
 			}
 		},
 		{
@@ -2126,7 +2126,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — spider.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — spider.png"
 			}
 		},
 		{
@@ -2136,7 +2136,7 @@
 			"type": "Instant",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — Modified.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — Modified.png"
 			}
 		},
 		{
@@ -2146,7 +2146,7 @@
 			"type": "Creature — Dragon Illusion ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERM01 — lands.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RM01 — lands.png"
 			}
 		},
 		{
@@ -2156,7 +2156,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECA01 — One- or two-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CA01 — One- or two-mana creature.png"
 			}
 		},
 		{
@@ -2166,7 +2166,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECA02 — Three- or four-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CA02 — Three- or four-mana creature.png"
 			}
 		},
 		{
@@ -2176,7 +2176,7 @@
 			"type": "Legendary Creature — Shapeshifter ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECA03 — Five- or six-mana creature.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CA03 — Five- or six-mana creature.png"
 			}
 		},
 		{
@@ -2186,7 +2186,7 @@
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECA04 — Equipment.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CA04 — Equipment.png"
 			}
 		},
 		{
@@ -2196,7 +2196,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECA05 — Land fetching/color fixing.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CA05 — Land fetching/color fixing.png"
 			}
 		},
 		{
@@ -2206,7 +2206,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUA01 — It That Heralds the End.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UA01 — It That Heralds the End.png"
 			}
 		},
 		{
@@ -2216,7 +2216,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUA02 — Glaring Fleshraker.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UA02 — Glaring Fleshraker.png"
 			}
 		},
 		{
@@ -2226,7 +2226,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUA03 — Eldrazi Ravager.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UA03 — Eldrazi Ravager.png"
 			}
 		},
 		{
@@ -2236,7 +2236,7 @@
 			"type": "Kindred Instant — Eldrazi ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUA04 — Not of This World.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UA04 — Not of This World.png"
 			}
 		},
 		{
@@ -2246,17 +2246,17 @@
 			"type": "Kindred Sorcery — Eldrazi ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUA05 — Skittering Invasion.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UA05 — Skittering Invasion.png"
 			}
 		},
 		{
-			"name": "CL01 — path of ancestry",
+			"name": "CL01 — Wastes",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Basic Land",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECL01 — path of ancestry.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/CL01 — Wastes.png"
 			}
 		},
 		{
@@ -2266,7 +2266,7 @@
 			"type": "Land",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUL01 — Spawning Bed.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UL01 — Spawning Bed.png"
 			}
 		},
 		{
@@ -2276,7 +2276,7 @@
 			"type": "Land",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUL02 — Eldrazi Temple.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UL02 — Eldrazi Temple.png"
 			}
 		},
 		{
@@ -2286,7 +2286,7 @@
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUL03 — Tomb of the Spirit Dragon.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UL03 — Tomb of the Spirit Dragon.png"
 			}
 		},
 		{
@@ -2296,13 +2296,13 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUL04 — Drowner of truth_front.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UL04 — Drowner of truth_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUL04 — Drowner of truth_back.png"
+					"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UL04 — Drowner of truth_back.png"
 				}
 			}
 		},
@@ -2313,7 +2313,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUL05 — Buried Ruin.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UL05 — Buried Ruin.png"
 			}
 		},
 		{
@@ -2323,7 +2323,7 @@
 			"type": "Creature — Eldrazi Reflection ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUX01 — Wastescape Battlemage.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UX01 — Wastescape Battlemage.png"
 			}
 		},
 		{
@@ -2333,7 +2333,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUX02 — Catacomb Sifter.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UX02 — Catacomb Sifter.png"
 			}
 		},
 		{
@@ -2343,7 +2343,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUX03 — Herald of Kozilek.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UX03 — Herald of Kozilek.png"
 			}
 		},
 		{
@@ -2353,7 +2353,7 @@
 			"type": "Creature — Eldrazi Drone ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUX04 — Mindmelter.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UX04 — Mindmelter.png"
 			}
 		},
 		{
@@ -2363,7 +2363,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEUX05 — Breaker of Creation.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/UX05 — Breaker of Creation.png"
 			}
 		},
 		{
@@ -2373,7 +2373,7 @@
 			"type": "Kindred Instant — Eldrazi ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX01 — Eldritch Immunity.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX01 — Eldritch Immunity.png"
 			}
 		},
 		{
@@ -2383,7 +2383,7 @@
 			"type": "Kindred Instant — Eldrazi ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX02 — Kozilek's Command.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX02 — Kozilek's Command.png"
 			}
 		},
 		{
@@ -2393,7 +2393,7 @@
 			"type": "Creature — Eldrazi Horror ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX03 — Eternal Scourge.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX03 — Eternal Scourge.png"
 			}
 		},
 		{
@@ -2403,7 +2403,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX04 — Matter Reshaper.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX04 — Matter Reshaper.png"
 			}
 		},
 		{
@@ -2413,7 +2413,7 @@
 			"type": "Creature — Eldrazi Processor ",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX05 — Blight Herder.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX05 — Blight Herder.png"
 			}
 		},
 		{
@@ -2423,7 +2423,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX06 — Conduit of Ruin.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX06 — Conduit of Ruin.png"
 			}
 		},
 		{
@@ -2433,7 +2433,7 @@
 			"type": "Kindred Enchantment — Eldrazi ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX07 — Echoes of Eternity.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX07 — Echoes of Eternity.png"
 			}
 		},
 		{
@@ -2443,7 +2443,7 @@
 			"type": "Kindred Sorcery — Eldrazi ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBERX08 — All Is Dust.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/RX08 — All Is Dust.png"
 			}
 		},
 		{
@@ -2453,7 +2453,7 @@
 			"type": "Creature — Eldrazi ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMX01 — Sire of Stagnation.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MX01 — Sire of Stagnation.png"
 			}
 		},
 		{
@@ -2463,7 +2463,7 @@
 			"type": "Legendary Creature — Cat Avatar ",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMX02 — Arahbo, Roar of the World.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MX02 — Arahbo, Roar of the World.png"
 			}
 		},
 		{
@@ -2473,7 +2473,7 @@
 			"type": "Legendary Universewalker — Byode",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMX03 — Byode, Inverse Sun.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MX03 — Byode, Inverse Sun.png"
 			}
 		},
 		{
@@ -2483,7 +2483,7 @@
 			"type": "Legendary Creature — Spider Avatar ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMX04 — The Ur-Spider.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MX04 — The Ur-Spider.png"
 			}
 		},
 		{
@@ -2493,7 +2493,7 @@
 			"type": "Legendary Creature — Dragon Avatar ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMX05 — The Ur-Dragon.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/MX05 — The Ur-Dragon.png"
 			}
 		},
 		{
@@ -2501,9 +2501,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEPlains.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Plains.png"
 			}
 		},
 		{
@@ -2511,9 +2511,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEIsland.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Island.png"
 			}
 		},
 		{
@@ -2521,9 +2521,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBESwamp.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Swamp.png"
 			}
 		},
 		{
@@ -2531,9 +2531,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEMountain.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Mountain.png"
 			}
 		},
 		{
@@ -2541,19 +2541,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEForest.png"
-			}
-		},
-		{
-			"name": "Wastes",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "262",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEWastes.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Forest.png"
 			}
 		},
 		{
@@ -2563,7 +2553,7 @@
 			"type": "Phenomenon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEChaotic Aether.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Chaotic Aether.png"
 			}
 		},
 		{
@@ -2573,7 +2563,7 @@
 			"type": "Phenomenon",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEReality Shaping.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Reality Shaping.png"
 			}
 		},
 		{
@@ -2583,7 +2573,7 @@
 			"type": "Plane — Blind Eternities ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEEvent Horizon.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Event Horizon.png"
 			}
 		},
 		{
@@ -2593,7 +2583,7 @@
 			"type": "Plane — Equilor ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEEon Fog.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Eon Fog.png"
 			}
 		},
 		{
@@ -2603,7 +2593,7 @@
 			"type": "Plane — Equilor ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEBloodhill Basin.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Bloodhill Basin.png"
 			}
 		},
 		{
@@ -2613,7 +2603,7 @@
 			"type": "Plane — Equilor ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEFields of Forever.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Fields of Forever.png"
 			}
 		},
 		{
@@ -2623,7 +2613,7 @@
 			"type": "Plane — Equilor ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEAnomaly Miasma.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Anomaly Miasma.png"
 			}
 		},
 		{
@@ -2633,7 +2623,7 @@
 			"type": "Plane — Iquatana ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEThe Aether Flues.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/The Aether Flues.png"
 			}
 		},
 		{
@@ -2643,7 +2633,7 @@
 			"type": "Plane — Iquatana ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEFragile Image-Cliffs.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Fragile Image-Cliffs.png"
 			}
 		},
 		{
@@ -2653,7 +2643,7 @@
 			"type": "Plane — Iquatana ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEIquati Memory-Scape.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Iquati Memory-Scape.png"
 			}
 		},
 		{
@@ -2663,7 +2653,7 @@
 			"type": "Plane — Kyneth ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEThe Zephyr Maze.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/The Zephyr Maze.png"
 			}
 		},
 		{
@@ -2673,7 +2663,7 @@
 			"type": "Plane — Foldaria ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEShrinking Plane.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Shrinking Plane.png"
 			}
 		},
 		{
@@ -2683,7 +2673,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECopy.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Copy.png"
 			}
 		},
 		{
@@ -2693,7 +2683,7 @@
 			"type": "Token Creature — Dragon ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEEldrazi Dragon.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Eldrazi Dragon.png"
 			}
 		},
 		{
@@ -2703,7 +2693,7 @@
 			"type": "Token Enchantment — Shard ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBEShard.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Shard.png"
 			}
 		},
 		{
@@ -2713,7 +2703,7 @@
 			"type": "Token Creature — Cat ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECat.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Cat.png"
 			}
 		},
 		{
@@ -2723,7 +2713,7 @@
 			"type": "Token Creature — Cat Soldier ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBECat Soldier.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Cat Soldier.png"
 			}
 		},
 		{
@@ -2733,7 +2723,7 @@
 			"type": "Token Creature — Spider  ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBESpider.png"
+				"en": "https://raw.githubusercontent.com/jbcblack/MSE/main/TBE/Spider.png"
 			}
 		},
 		]
@@ -2988,8 +2978,7 @@
 		30 CA03 — Five- or six-mana creature
 		30 CA04 — Equipment
 		30 CA05 — Land fetching/color fixing
-		30 CL01 — path of ancestry
-		30 Wastes
+		30 CL01 — Wastes
 		30 Chaotic Aether
 		30 Reality Shaping
 		30 Event Horizon
@@ -3228,7 +3217,7 @@
 	10 UA03 — Eldrazi Ravager
 	10 UA04 — Not of This World
 	10 UA05 — Skittering Invasion
-	10 CL01 — path of ancestry
+	10 CL01 — Wastes
 	10 UL01 — Spawning Bed
 	10 UL02 — Eldrazi Temple
 	10 UL03 — Tomb of the Spirit Dragon
@@ -3252,7 +3241,6 @@
 	10 MX03 — Byode, Inverse Sun
 	10 MX04 — The Ur-Spider
 	10 MX05 — The Ur-Dragon
-	10 Wastes
 	10 Chaotic Aether
 	10 Reality Shaping
 	10 Event Horizon
